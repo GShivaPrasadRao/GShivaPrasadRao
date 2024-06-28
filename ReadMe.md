@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Full Stack Java Developer with 7+ years of <br>experience in Back end and Front End technologies.
+I am a passionate Full Stack Java Developer with 8+ years of <br>experience in Back end and Front End technologies.
 
 
 ## 🌐 Socials:
